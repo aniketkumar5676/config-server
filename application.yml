@@ -9,7 +9,7 @@ eureka:
     
     
 microservice:
-  order-service:
+  payment-service:
     endpoints:
       endpoint:
         uri: http://RAILWAYPAYMENT/payment/payment
