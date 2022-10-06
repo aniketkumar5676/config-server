@@ -14,7 +14,7 @@ microservice:
       endpoint:
         uri: http://RAILWAYPAYMENT/payment/payment
         
-  order-service:
+  paymentCheck-service:
     endpoints:
       endpoint:
         uri: http://PAYMENTCHECK/check
